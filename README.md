@@ -11,6 +11,42 @@ This repository is an implementation of a Classifier which analyzes a data of pa
 ---
 <br/>
 
+## Como Instalar
+
+Para utilizar o projeto <em>"Stroke Classifier"</em>, você deve ter o Python instalado em seu computador e seguir os passos:
+
+1. Clone o repositório na sua máquina na pasta de sua escolha. Utilize o comando:
+
+`git clone https://github.com/JoaoLucasMBC/stroke-classifier.git`
+
+2. Utilizando o terminal / a IDE de sua escolha, crie uma *Virtual Env* de Python e a ative:
+
+`python -m venv env`
+
+`env/Scripts/Activate.ps1` (Windows)
+
+3. Mude para a pasta do <em>"Stroke Classifier"</em> e instale as bibliotecas requeridas:
+
+`cd ./stroke-classifier`
+
+`pip install -r requirements.txt`
+
+4. Após a instalação, visualize as informações e demonstrações no arquivo *demo.ipynb* para ver o programa funcionando e os testes realizados por nós.
+
+---
+<br/>
+
+## Como Utilizar
+
+
+---
+<br/>
+
+## Modelo Matemático
+
+---
+<br/>
+
 ## Análise dos dados e conclusões
 ### Metodologia de Implementação
 Implementamos dois classificadores com abordagens diferentes: Um classificador linear e um classificador de árvore de decisão.
