@@ -72,5 +72,5 @@ Essa análise nos permite confirmar que nossas descobertas refletem o mundo real
 ---
 
 ¹Detalhes do modelo matemático no arquivo `demo.ipynb`  
-²A correlação entre hipertensão e AVC's já é estudada há muitos anos, o que corrobora a nossa hipótese, em artigos como [este](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6659031/), da **Natural Library of Medicine**.
+²A correlação entre hipertensão e AVC's já é estudada há muitos anos, o que corrobora a nossa hipótese, em artigos como [este](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6659031/), da **Natural Library of Medicine**.  
 ³Inclusive, um fator estudado atualmente (mas que ainda requer maior atenção) é o paradoxo da obesidade, que analisa como pacientes obesos se recuperam melhor de AVC's. Isso contribui para a visão que o causador de acidentes não é a obesidade, mas sim os problemas causados por ela. Saiba mais sobre o paradoxo [aqui](https://link.springer.com/article/10.1007/s40519-020-00876-w)
