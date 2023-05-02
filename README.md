@@ -65,7 +65,7 @@ As referências bibliográficas utilizadas foram o artigo no [portal do ministé
 
 Analisando-os, verificamos que todas as características no top 5 estão presentes. Entre as que estavam listadas em nossos dados que também foram mencionadas, mas não apareceram nas 5 estão: Tabagismo e Sexo Biológico — o tabagismo por prejudicar o sistema respiratório e o cardiovascular, e o Sexo Masculino por características hereditárias.
 
-Além disso, buscamos questionar a prevalência dos dois principais fatores: idade e obesidade. Uma hipótese possível é que eles não são fatores do AVC em si, mas levam aos reais causadores do acidente, como a hipertensão (citada também em análise). Por exemplo, um indivíduo idoso ou obeso tende a desenvolver esse tipo de doença vascular. Essas, sim, causadoras de acidentes vasculares cerebrais². Portanto, suas amplas presenças estariam ligadas a serem "genéricos". 
+Além disso, buscamos questionar a prevalência dos dois principais fatores: idade e obesidade. Uma hipótese possível é que eles não são fatores do AVC em si, mas levam aos reais causadores do acidente, como a hipertensão (citada também em análise). Por exemplo, um indivíduo idoso ou obeso tende a desenvolver esse tipo de doença vascular. Essas, sim, causadoras de acidentes vasculares cerebrais². Portanto, suas amplas presenças estariam ligadas a serem "genéricos"³. 
 
 Essa análise nos permite confirmar que nossas descobertas refletem o mundo real, já que causas encontradas pelos classificadores estão entre os fatores de risco reconhecidos do AVC. Isso não significa que eles são eficazes e devem ser usados em produção, mas sim que foram capazes de perceber as principais causas na base de dados apresentada, ao realizar as predições.
 
@@ -73,3 +73,4 @@ Essa análise nos permite confirmar que nossas descobertas refletem o mundo real
 
 ¹Detalhes do modelo matemático no arquivo `demo.ipynb`  
 ²A correlação entre hipertensão e AVC's já é estudada há muitos anos, o que corrobora a nossa hipótese, em artigos como [este](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6659031/), da **Natural Library of Medicine**.
+³Inclusive, um fator estudado atualmente (mas que ainda requer maior atenção) é o paradoxo da obesidade, que analisa como pacientes obesos se recuperam melhor de AVC's. Isso contribui para a visão que o causador de acidentes não é a obesidade, mas sim os problemas causados por ela. Saiba mais sobre o paradoxo [aqui](https://link.springer.com/article/10.1007/s40519-020-00876-w)
